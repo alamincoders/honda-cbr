@@ -20,6 +20,10 @@
 /* banner section */
 
 .header-title {
-    font-size: 3rem;
+    font-size: 2.5rem;
     line-height: 4.5rem;
+}
+
+.header-bike-img {
+    padding-top: 3rem;
 }

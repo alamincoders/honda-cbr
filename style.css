@@ -17,7 +17,7 @@
 }
 
 
-/* banner section */
+/* banner section styles*/
 
 .header-title {
     font-size: 2.5rem;
@@ -26,4 +26,11 @@
 
 .header-bike-img {
     padding-top: 3rem;
+}
+
+
+/* featured bike section styles */
+
+.feature-grayscle-img img {
+    filter: grayscale(100%);
 }

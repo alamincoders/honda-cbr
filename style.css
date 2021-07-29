@@ -49,3 +49,12 @@ body {
     color: #E77C40;
     margin: 0 5px;
 }
+
+
+/* frequently question styles */
+
+.frequent-accordian-item {
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    font-weight: 500;
+}

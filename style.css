@@ -1,5 +1,11 @@
 /* custom css style */
 
+html,
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 .header-bg {
     background: #264653;
     padding: 4rem 0;
@@ -33,4 +39,13 @@
 
 .feature-grayscle-img img {
     filter: grayscale(100%);
+}
+
+
+/* Happy clients styles */
+
+.fa-star {
+    font-size: 1rem;
+    color: #E77C40;
+    margin: 0 5px;
 }
